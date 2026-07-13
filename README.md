@@ -207,7 +207,7 @@ Through this project, I gained practical experience with:
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/utsav-mehta-462653258/
 - 💻 GitHub: https://github.com/utsavmehta24
-- 🌍 Portfolio: https://medium.com/@utsavmehta24072003
+- 🌍 Medium: https://medium.com/@utsavmehta24072003
 - 📧 Email: utsavmehta24072003@gmail.com
 - 🐦 X (Twitter): https://x.com/Lucid24by7_io
 
